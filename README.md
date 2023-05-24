@@ -1,9 +1,8 @@
 ### Hi everyone, it´s Jennifer Sicherolli here, welcome to my GitHub. HAVE FUN!!!!😊 
 
-- 🌱 I’m currently learning about SpringBoot.
+- 🌱 I’m currently learning about  Java.
 - 🤔 I’m looking for help with Git.
 - 📫 How to reach me? By email: jennifer.sicherolli@gmail.com
-- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: i love books📚 and love skateboarding🛹.
 
  <p align="center"> "You become responsible forever for what you have tamed" - The Little Prince🤴🦊</p>
