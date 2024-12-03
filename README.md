@@ -1,6 +1,6 @@
 ### Hi everyone, it´s Jennifer Sicherolli here, welcome to my GitHub. HAVE FUN!!!!😊 
 
-- 🌱 I’m currently learning about  Java.
+- 🌱 I’m currently learning about data science.
 - 🤔 I’m looking for help with Git.
 - 📫 How to reach me? By email: jennifer.sicherolli@gmail.com
 - ⚡ Fun fact: i love books📚 and love skateboarding🛹.
